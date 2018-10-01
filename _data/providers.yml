@@ -77,3 +77,10 @@ providers:
     img: yubico.png
     u2f: Yes
     otp: Yes
+    
+  - name: E-WBM
+    url: https://www.e-wbm.com
+    img: ewbm.png
+    u2f: Yes
+    otq: Yes
+    
