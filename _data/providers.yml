@@ -81,6 +81,7 @@ providers:
   - name: E-WBM
     url: https://www.e-wbm.com/
     img: ewbm.png
+    hardware: Yes
     u2f: Yes
     otp: No
     
